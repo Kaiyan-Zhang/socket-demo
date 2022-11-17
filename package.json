@@ -1,0 +1,11 @@
+{
+  "name": "ws-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "commonjs",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.34"
+  }
+}
